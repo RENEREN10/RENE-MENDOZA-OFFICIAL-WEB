@@ -1,4 +1,0 @@
-HOLA A TODOS, SOY RENE MENDOZA.
-	
-	
-
