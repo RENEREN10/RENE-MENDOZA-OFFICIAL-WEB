@@ -1,5 +1,3 @@
-# RENE-MENDOZA-OFFICIAL-WEB
-Esta es mi primera pagina web
 var img;
 
 function preload(){
